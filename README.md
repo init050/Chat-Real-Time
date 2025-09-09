@@ -29,7 +29,7 @@ Getting this project up and running on your local machine is easy. Just follow t
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/init050/Chat-Real-Time.git
     cd Chat-Real-Time
     ```
 
